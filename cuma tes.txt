@@ -1,0 +1,3 @@
+benar = http://localhost:8000/search?search=be
+salah = http://localhost:8000/colours/search?search=be
+		http://localhost:8000/kinds/search?search=f
